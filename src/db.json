@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "productName":"IceCream",
+        "detail":"Receipe from India serving IceCream with love"
+    },
+    {
+        "id":2,
+        "productName":"Momos",
+        "detail":"Receipe from Nepal serving Momos with love"
+    },
+    {
+        "id":3,
+        "productName":"Chowmein",
+        "detail":"Receipe from China serving Chowmein with love"
+    },
+    {
+        "id":4,
+        "productName":"Berger",
+        "detail":"Receipe from USA serving Berger with love"
+    }
+]
